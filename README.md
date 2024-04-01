@@ -1,3 +1,4 @@
 # Post View Count
 Code đếm lượt view
-#Thêm code này vào funtions.php của theme đang dùng
+#Thêm code vào funtions.php của theme đang dùng
+#Thêm hàm vào single post để đếm lượt view: <?php setPostViews(get_the_ID()); ?>
